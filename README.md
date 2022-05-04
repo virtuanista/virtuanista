@@ -6,7 +6,7 @@
 
 - [Music Library](https://virtuanismo.com)
 - [API](https://virtuanismo.com/api-docs)
-- <a href="https://virtuanismo.com/user/1/virtuanista"><img src="https://virtuanismo.com/client/favicon/android-icon-48x48.png" alt="virtuanismo"/></a>
+<a href="https://virtuanismo.com/user/1/virtuanista"><img src="https://virtuanismo.com/client/favicon/android-icon-48x48.png" alt="virtuanismo"/></a>
 
 ## Links
 
