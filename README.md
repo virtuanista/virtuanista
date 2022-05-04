@@ -16,8 +16,10 @@
   <a href="https://www.youtube.com/channel/UCsAQyKTs0JbVNnACYlsmqxw"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.instagram.com/virtuanista"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.twitch.tv/virtuanista"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
-  <a href="https://virtuanismo.com/user/1/virtuanista"><img src="https://virtuanismo.com/client/favicon/icon-72x72.png" alt="virtuanismo"/></a>
   <a href="https://open.spotify.com/user/heisenjaguer"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+  <br>
+  <a href="https://virtuanismo.com/user/1/virtuanista"><img src="https://virtuanismo.com/client/favicon/icon-72x72.png" alt="virtuanismo"/></a>
+
 </p>
 
 ## IDE
