@@ -21,6 +21,19 @@
   <a href="https://virtuanismo.com/user/1/virtuanista"><img src="https://virtuanismo.com/client/favicon/icon-72x72.png" alt="virtuanismo"/></a>
 </p>
 
+## IDE
+
+![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+
+## Programing languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+## Visitors
+
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=virtuanista" alt="visitor badge"/>
 </p>
+
+
