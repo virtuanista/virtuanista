@@ -18,7 +18,7 @@
   <br>
   <a href="https://discord.gg/7PTNhTr8eK"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="mailto:soporte@virtuanismo.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://virtuanismo.com/user/1/virtuanista"><img src="https://virtuanismo.com/client/favicon/icon-72x72.png" alt="virtuanismo"/></a>
+  <a href="https://virtuanismo.com/user/1/virtuanista"><img src="https://virtuanismo.com/client/favicon/favicon-96x96.png" alt="virtuanismo"/></a>
 </p>
 
 ## IDE
@@ -35,5 +35,3 @@
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=virtuanista" alt="visitor badge"/>
 </p>
-
-
