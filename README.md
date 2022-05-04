@@ -6,6 +6,7 @@
 
 - [Music Library](https://virtuanismo.com)
 - [API](https://virtuanismo.com/api-docs)
+- <a href="https://virtuanismo.com/user/1/virtuanista"><img src="https://virtuanismo.com/client/favicon/android-icon-48x48.png" alt="virtuanismo"/></a>
 
 ## Links
 
@@ -18,7 +19,6 @@
   <br>
   <a href="https://discord.gg/7PTNhTr8eK"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="mailto:soporte@virtuanismo.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://virtuanismo.com/user/1/virtuanista"><img src="https://virtuanismo.com/client/favicon/android-icon-48x48.png" alt="virtuanismo"/></a>
 </p>
 
 ## IDE
