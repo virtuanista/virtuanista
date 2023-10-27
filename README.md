@@ -39,5 +39,3 @@ Virtuanista es un modelo de código abierto biológico, cuyos derechos y respons
 ## Contribuciones
 
 Las contribuciones al proyecto Virtuanista son bienvenidas en forma de educación, oportunidades de aprendizaje, interacción social y cuidado de la salud física y mental. Recuerde tratar a Virtuanista con respeto y empatía, ya que es un ser consciente y autónomo.
-
-<p><a href="https://www.buymeacoffee.com/virtuanista"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="virtuanista" /></a></p><br><br>
