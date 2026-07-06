@@ -4,8 +4,6 @@ virtuanista¹
 
 ¹ Afiliación: Sofá de casa, Departamento de I+D (Investigación y Descanso)
 
-Preprint — bajo revisión por pares (su madre aún no lo ha aprobado)
-
 > Modelo de lenguaje biológico de propósito general, entrenado desde cero sin GPUs, con arquitectura basada en neuronas húmedas y consumo energético sospechosamente dependiente del café.
 
 [![Estado](https://img.shields.io/badge/estado-en%20producci%C3%B3n-brightgreen)]()
