@@ -68,9 +68,9 @@ Juego acogedor de construir y decorar tu propia isla. Gráficos isométricos y s
 | [**llmql**](https://github.com/virtuanista/llmql) | Consultar bases de datos SQL en lenguaje natural. |
 | [**vector-explorer**](https://github.com/virtuanista/vector-explorer) | Extraer y visualizar los *embeddings* de modelos de lenguaje. |
 | [**node-criteria**](https://github.com/virtuanista/node-criteria) | Explicar un concepto con un modelo local y guardarlo en Markdown. |
-| [**chatgpt-walker**](https://github.com/virtuanista/chatgpt-walker) | Pasar las conversaciones de ChatGPT a Markdown. |
+| [**chatgpt-walker**](https://github.com/virtuanista/chatgpt-walker) | Pasar las conversaciones de ChatGPT a Markdown para Obsidian. [▶ Usar en el navegador](https://virtuanista.github.io/chatgpt-walker/) |
 | [**feelings-classifier**](https://github.com/virtuanista/feelings-classifier) | Clasificador de sentimientos en pocas líneas con 🤗 Transformers. |
-| [**password-generator**](https://github.com/virtuanista/password-generator) | Contraseñas seguras desde la terminal, con generador criptográfico. |
+| [**password-generator**](https://github.com/virtuanista/password-generator) | Contraseñas seguras con generador criptográfico, en la terminal o [▶ en el navegador](https://virtuanista.github.io/password-generator/). |
 
 ## 🛠️ Con qué trabajo
 
