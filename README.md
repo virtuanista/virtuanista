@@ -59,12 +59,14 @@ Juego acogedor de construir y decorar tu propia isla. Gráficos isométricos y s
 | Proyecto | Qué es |
 |---|---|
 | [**vxtop**](https://github.com/vxtop/vxtop) | Observatorio 3D de tu equipo, de solo lectura: carpetas y programas como cubos, actividad de archivos en vivo y agentes de IA. Con servidor MCP. |
+| [**NEON ARENA**](https://github.com/virtuanista/neon-arena) | Shooter PvP 2D multijugador en tiempo real: servidor autoritativo en Node.js con WebSockets, predicción, interpolación y bots. |
 | [**soniditos desktop**](https://github.com/soniditos/soniditos-desktop) | Aplicación de escritorio multiplataforma de [soniditos](https://soniditos.com). |
 
 ## 🤖 IA y herramientas
 
 | Proyecto | Qué hace |
 |---|---|
+| [**agent-test**](https://github.com/virtuanista/agent-test) | Agente autónomo de investigación web con cualquier LLM compatible con OpenAI y DuckDuckGo, sin servicios de pago. |
 | [**llmql**](https://github.com/virtuanista/llmql) | Consultar bases de datos SQL en lenguaje natural. |
 | [**vector-explorer**](https://github.com/virtuanista/vector-explorer) | Extraer y visualizar los *embeddings* de modelos de lenguaje. |
 | [**node-criteria**](https://github.com/virtuanista/node-criteria) | Explicar un concepto con un modelo local y guardarlo en Markdown. |
