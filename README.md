@@ -1,15 +1,4 @@
-<div align="center">
-
-# Hola, soy virtuanista 🎣
-
-**Hago juegos que se juegan en el navegador, herramientas con IA y cosas que se ven en 3D.**
-Me gusta que todo se genere con código: el arte, la música, los mundos.
-
-*La escritura es telepatía…* · Madrid y alrededores
-
-</div>
-
-## 🎮 Juegos: dale a «Jugar» y en marcha
+## 🎮 Juegos: dale a «Jugar»
 
 <table>
 <tr>
