@@ -4,12 +4,13 @@
 
 ### Desarrollo · Tecnología · Inteligencia Artificial
 
-[![Portfolio](https://img.shields.io/badge/🚀_Explorar_proyectos-virtuanista.github.io-b84a06?style=for-the-badge)](https://virtuanista.github.io/)
+[![Explorar panel de proyectos](https://img.shields.io/badge/🚀_EXPLORAR_PANEL_DE_PROYECTOS-virtuanista.github.io-b84a06?style=for-the-badge)](https://virtuanista.github.io/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pepe_Alvar-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/pepe-alvar/)
 
-</div>
+Explora mis proyectos, tecnologías, desarrollos, últimos avances y próximas tareas.
 
-Un espacio dedicado a mis proyectos y experimentos tecnológicos. Explora qué estoy construyendo, las tecnologías que utilizo, los últimos avances y los próximos objetivos de cada proyecto.
+</div>
 ## 🎮 Destacados
 
 Del más nuevo al más antiguo.
