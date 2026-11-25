@@ -2,7 +2,9 @@
 
 <p><a href="README.md">Español</a> · <b>English</b></p>
 
-<a href="https://virtuanista.github.io/en/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="img/virtuanista-fija.webp"><img src="img/virtuanista.webp" alt="virtuanista" width="100%"></picture></a>
+<a href="https://virtuanista.github.io/vision/?lang=en"><picture><source media="(prefers-reduced-motion: reduce)" srcset="img/vision-fija.webp"><img src="img/vision.webp" alt="VISIÓN" width="100%"></picture></a>
+
+<a href="https://virtuanista.github.io/vision/?lang=en"><img alt="Try it free" src="https://img.shields.io/badge/VISIÓN-Try_it_free-3fa9ff?style=for-the-badge"></a> <a href="https://virtuanista.github.io/vision/pro/?lang=en#precios"><img alt="Buy" src="https://img.shields.io/badge/VISIÓN-Buy-8b3fd9?style=for-the-badge"></a>
 
 ### Development · Technology · Artificial Intelligence
 
@@ -15,10 +17,6 @@ Explore my projects, technologies, developments, latest progress and next tasks.
 ## 🎮 Featured
 
 Newest to oldest.
-
-<p align="center"><a href="https://virtuanista.github.io/vision/"><img src="img/vision-pro-en.webp" width="820" alt="Vision: an interface made only of Gaussian points. Try it free"></a></p>
-
-[![Vision](https://img.shields.io/badge/Free_demo-Vision-3fa9ff?style=for-the-badge)](https://virtuanista.github.io/vision/?lang=en) [![Vision Pro](https://img.shields.io/badge/Buy-Vision_Pro-8b3fd9?style=for-the-badge)](https://virtuanista.github.io/vision/pro/?lang=en#precios)
 
 <p align="center">
 <a href="https://virtuanista.github.io/parkour-template/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/parkour-oscuro-en.webp"><img src="img/parkour-claro-en.webp" width="400" alt="Parkour Template: Third-person parkour template to start your game. Open"></picture></a>
@@ -49,7 +47,7 @@ Newest to oldest.
 | 2026&#8209;11 | [**Parkour Template**](https://github.com/virtuanista/parkour-template) | Third-person parkour template to start your game. | [Details](https://virtuanista.github.io/en/#parkour) |
 | 2026&#8209;11 | [**DataMiner**](https://github.com/virtuanista/data-miner) | Searches up to 45 sources at once, extracts the content and downloads the files. | [Details](https://virtuanista.github.io/en/#dataminer) |
 | 2026&#8209;11 | [**Knowledge Atlas**](https://github.com/virtuanista/knowledge-atlas) | Six fractal graphs with 5,958 sources. Opens on OSINT. | [Details](https://virtuanista.github.io/en/#atlas) |
-| 2026&#8209;11 | [**Vision**](https://github.com/virtuanista/vision) | An interface made only of Gaussian points. | [Details](https://virtuanista.github.io/en/#vision) |
+| 2026&#8209;11 | [**VISIÓN**](https://github.com/virtuanista/vision) | An interface made only of points. | [Details](https://virtuanista.github.io/en/#vision) |
 | 2026&#8209;11 | [**Prisma**](https://github.com/vxtop/prisma) | Talk and work with Claude in a 3D space. | [Details](https://virtuanista.github.io/en/#prisma) |
 | 2026&#8209;11 | [**GameHub**](https://github.com/virtuanista/gamehub) | Local workspace to produce a complete video game. | [Details](https://virtuanista.github.io/en/#gamehub) |
 | 2026&#8209;11 | [**CENIZA: Protocolo Bastión**](https://github.com/virtuanista/ceniza-protocolo-bastion) | First-person wave survival shooter. | [Details](https://virtuanista.github.io/en/#ceniza) |
