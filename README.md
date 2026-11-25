@@ -1,5 +1,7 @@
 <div align="center">
 
+<p><b>Español</b> · <a href="README.en.md">English</a></p>
+
 <a href="https://virtuanista.github.io/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="https://virtuanista.github.io/img/perfil/virtuanista-fija.webp"><img src="https://virtuanista.github.io/img/perfil/virtuanista.webp" alt="virtuanista" width="100%"></picture></a>
 
 ### Desarrollo · Tecnología · Inteligencia Artificial
