@@ -4,7 +4,7 @@
 
 <a href="https://virtuanista.github.io/vision/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="img/vision-fija.webp"><img src="img/vision.webp" alt="VISION" width="100%"></picture></a>
 
-<a href="https://virtuanista.github.io/vision/"><img alt="Probar gratis" src="https://img.shields.io/badge/VISION-Probar_gratis-3fa9ff?style=for-the-badge"></a> <a href="https://virtuanista.github.io/vision/pro/#precios"><img alt="Comprar" src="https://img.shields.io/badge/VISION-Comprar-8b3fd9?style=for-the-badge"></a>
+<a href="https://virtuanista.github.io/vision/"><img alt="Probar gratis" src="https://img.shields.io/badge/VISION-Probar_gratis-3fa9ff?style=for-the-badge"></a> <a href="https://virtuanista.itch.io/vision/purchase"><img alt="Comprar" src="https://img.shields.io/badge/VISION-Comprar-8b3fd9?style=for-the-badge"></a>
 
 ### Desarrollo · Tecnología · Inteligencia Artificial
 
