@@ -41,27 +41,23 @@ Juego acogedor de construir y decorar tu propia isla. Gráficos isométricos y s
 <br><br><a href="https://virtuanista.github.io/isleta/"><b>▶ Jugar</b></a>
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://virtuanista.github.io/parkour-template/"><img src="https://raw.githubusercontent.com/virtuanista/parkour-template/main/docs/capturas/menu.png" alt="Parkour Template"></a>
+<h3><a href="https://github.com/virtuanista/parkour-template">Parkour Template</a></h3>
+Plantilla de parkour en tercera persona lista para que cualquiera la use: vault, mantle, cornisas y wall run. three.js y TypeScript.
+<br><br><a href="https://virtuanista.github.io/parkour-template/"><b>▶ Jugar</b></a>
+</td>
+</tr>
 </table>
 
 ## 🧊 Proyectos
 
 | Proyecto | Qué es |
 |---|---|
+| [**DataMiner**](https://github.com/virtuanista/data-miner) | Una araña por criterio de búsqueda: busca en 20 fuentes, extrae el contenido y descarga los ficheros. App de escritorio para Windows. |
 | [**vxtop**](https://github.com/vxtop/vxtop) | Observatorio 3D de tu equipo, de solo lectura: carpetas y programas como cubos, actividad de archivos en vivo y agentes de IA. Con servidor MCP. |
-| [**NEON ARENA**](https://github.com/virtuanista/neon-arena) | Shooter PvP 2D multijugador en tiempo real: servidor autoritativo en Node.js con WebSockets, predicción, interpolación y bots. |
 | [**soniditos desktop**](https://github.com/soniditos/soniditos-desktop) | Aplicación de escritorio multiplataforma de [soniditos](https://soniditos.com). |
-
-## 🤖 IA y herramientas
-
-| Proyecto | Qué hace |
-|---|---|
-| [**agent-test**](https://github.com/virtuanista/agent-test) | Agente autónomo de investigación web con cualquier LLM compatible con OpenAI y DuckDuckGo, sin servicios de pago. |
-| [**llmql**](https://github.com/virtuanista/llmql) | Consultar bases de datos SQL en lenguaje natural. |
-| [**vector-explorer**](https://github.com/virtuanista/vector-explorer) | Extraer y visualizar los *embeddings* de modelos de lenguaje. |
-| [**node-criteria**](https://github.com/virtuanista/node-criteria) | Explicar un concepto con un modelo local y guardarlo en Markdown. |
-| [**chatgpt-walker**](https://github.com/virtuanista/chatgpt-walker) | Pasar las conversaciones de ChatGPT a Markdown para Obsidian. [▶ Usar en el navegador](https://virtuanista.github.io/chatgpt-walker/) |
-| [**feelings-classifier**](https://github.com/virtuanista/feelings-classifier) | Clasificador de sentimientos en pocas líneas con 🤗 Transformers. |
-| [**password-generator**](https://github.com/virtuanista/password-generator) | Contraseñas seguras con generador criptográfico, en la terminal o [▶ en el navegador](https://virtuanista.github.io/password-generator/). |
 
 ## 🗺️ Atlas
 
@@ -96,3 +92,15 @@ Cinco grafos temáticos (IA y LLM, algoritmos, estándares web, datasets abierto
 ![Web Audio](https://img.shields.io/badge/Web_Audio-ff6f00)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-ffcc4d?logo=huggingface&logoColor=black)
+
+<p align="center">
+	Repositorio generado por <a href="https://github.com/virtuanista" target="_blank">virtu 🎣</a>
+</p>
+
+<p align="center">
+	<img src="https://open.soniditos.com/cat_footer.svg" alt="Gatito" />
+</p>
+
+<p align="center">
+	Copyright &copy; 2026
+</p>
