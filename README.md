@@ -7,8 +7,9 @@
 
 </div>
 
-El [panel](https://virtuanista.github.io/) muestra el estado de cada proyecto: concepto, tecnología, lenguajes, últimos cambios y tareas pendientes.
+[🚀 Explorar proyectos y actividad](https://virtuanista.github.io/)
 
+Consulta mi panel de desarrollo para descubrir los proyectos, sus tecnologías, lenguajes, últimos avances y próximas tareas.
 ## 🎮 Destacados
 
 Del más nuevo al más antiguo.
