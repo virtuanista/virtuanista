@@ -61,20 +61,12 @@ Plantilla de parkour en tercera persona lista para que cualquiera la use: vault,
 
 ## 🗺️ Atlas
 
-Grafos fractales para explorar fuentes: clusters → subclusters → puntos, con previews al acercar.
-
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/osint-atlas/"><img src="https://raw.githubusercontent.com/virtuanista/osint-atlas/main/docs/img/overview.jpg" alt="OSINT Atlas"></a>
-<h3><a href="https://github.com/virtuanista/osint-atlas">OSINT Atlas</a></h3>
-3.500 fuentes OSINT deduplicadas y clusterizadas en 21 clusters. Puntos mate, profundidad de campo y previews con enlace directo.
-<br><br><a href="https://virtuanista.github.io/osint-atlas/"><b>▶ Explorar</b></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/knowledge-atlas/"><img src="https://raw.githubusercontent.com/virtuanista/knowledge-atlas/main/docs/img/ia.jpg" alt="Knowledge Atlas"></a>
+<td valign="top">
+<a href="https://virtuanista.github.io/knowledge-atlas/"><img src="https://raw.githubusercontent.com/virtuanista/knowledge-atlas/main/docs/img/osint-overview.jpg" alt="Knowledge Atlas"></a>
 <h3><a href="https://github.com/virtuanista/knowledge-atlas">Knowledge Atlas</a></h3>
-Cinco grafos temáticos (IA y LLM, algoritmos, estándares web, datasets abiertos, juegos) con un selector para cambiar entre ellos.
+Seis grafos fractales con 5.958 fuentes: OSINT, IA, algoritmos, estándares web, datasets y juegos. Se abre con OSINT y un selector cambia de grafo.
 <br><br><a href="https://virtuanista.github.io/knowledge-atlas/"><b>▶ Explorar</b></a>
 </td>
 </tr>
