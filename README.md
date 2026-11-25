@@ -7,11 +7,7 @@
 [![Ver el panel de proyectos](https://img.shields.io/badge/Ver_el_panel_de_proyectos-virtuanista.github.io-b84a06?style=for-the-badge)](https://virtuanista.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pepe_Alvar-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/pepe-alvar/)
 
-[![Panel de proyectos](https://virtuanista.github.io/img/panel.png)](https://virtuanista.github.io/)
-
 </div>
-
-El [panel](https://virtuanista.github.io/) muestra el estado de cada proyecto: concepto, tecnología, lenguajes, últimos cambios y tareas pendientes.
 
 ## 🎮 Destacados
 
