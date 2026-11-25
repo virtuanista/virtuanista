@@ -2,9 +2,9 @@
 
 <p><b>Español</b> · <a href="README.en.md">English</a></p>
 
-<a href="https://virtuanista.github.io/vision/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="img/vision-fija.webp"><img src="img/vision.webp" alt="VISIÓN" width="100%"></picture></a>
+<a href="https://virtuanista.github.io/vision/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="img/vision-fija.webp"><img src="img/vision.webp" alt="VISION" width="100%"></picture></a>
 
-<a href="https://virtuanista.github.io/vision/"><img alt="Probar gratis" src="https://img.shields.io/badge/VISIÓN-Probar_gratis-3fa9ff?style=for-the-badge"></a> <a href="https://virtuanista.github.io/vision/pro/#precios"><img alt="Comprar" src="https://img.shields.io/badge/VISIÓN-Comprar-8b3fd9?style=for-the-badge"></a>
+<a href="https://virtuanista.github.io/vision/"><img alt="Probar gratis" src="https://img.shields.io/badge/VISION-Probar_gratis-3fa9ff?style=for-the-badge"></a> <a href="https://virtuanista.github.io/vision/pro/#precios"><img alt="Comprar" src="https://img.shields.io/badge/VISION-Comprar-8b3fd9?style=for-the-badge"></a>
 
 ### Desarrollo · Tecnología · Inteligencia Artificial
 
@@ -47,7 +47,7 @@ Del más nuevo al más antiguo.
 | 2026&#8209;11 | [**Parkour Template**](https://github.com/virtuanista/parkour-template) | Plantilla de parkour en tercera persona para empezar tu juego. | [Ficha](https://virtuanista.github.io/#parkour) |
 | 2026&#8209;11 | [**DataMiner**](https://github.com/virtuanista/data-miner) | Busca en hasta 45 fuentes a la vez, extrae el contenido y descarga los ficheros. | [Ficha](https://virtuanista.github.io/#dataminer) |
 | 2026&#8209;11 | [**Knowledge Atlas**](https://github.com/virtuanista/knowledge-atlas) | Seis grafos fractales con 5.958 fuentes. Se abre con OSINT. | [Ficha](https://virtuanista.github.io/#atlas) |
-| 2026&#8209;11 | [**VISIÓN**](https://github.com/virtuanista/vision) | Una interfaz hecha solo de puntos. | [Ficha](https://virtuanista.github.io/#vision) |
+| 2026&#8209;11 | [**VISION**](https://github.com/virtuanista/vision) | Una interfaz hecha solo de puntos. | [Ficha](https://virtuanista.github.io/#vision) |
 | 2026&#8209;11 | [**Prisma**](https://github.com/vxtop/prisma) | Habla y trabaja con Claude en un espacio 3D. | [Ficha](https://virtuanista.github.io/#prisma) |
 | 2026&#8209;11 | [**GameHub**](https://github.com/virtuanista/gamehub) | Espacio de trabajo local para producir un videojuego completo. | [Ficha](https://virtuanista.github.io/#gamehub) |
 | 2026&#8209;11 | [**CENIZA: Protocolo Bastión**](https://github.com/virtuanista/ceniza-protocolo-bastion) | Shooter de supervivencia por oleadas en primera persona. | [Ficha](https://virtuanista.github.io/#ceniza) |
