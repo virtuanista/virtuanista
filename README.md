@@ -2,12 +2,8 @@
 
 # virtuanista 🎣
 
-**Soy Pepe Alvar. Hago juegos de navegador, herramientas y cosas que se ven en 3D.**
-
 [![Ver el panel de proyectos](https://img.shields.io/badge/Ver_el_panel_de_proyectos-virtuanista.github.io-b84a06?style=for-the-badge)](https://virtuanista.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pepe_Alvar-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/pepe-alvar/)
-
-[![Panel de proyectos](https://virtuanista.github.io/img/panel.png)](https://virtuanista.github.io/)
 
 </div>
 
