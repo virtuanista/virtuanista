@@ -10,7 +10,6 @@
 
 Explora mis proyectos, tecnologías, desarrollos, últimos avances y próximas tareas.
 
-</div>
 ## 🎮 Destacados
 
 Del más nuevo al más antiguo.
