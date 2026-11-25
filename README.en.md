@@ -2,13 +2,13 @@
 
 <p><a href="README.md">Español</a> · <b>English</b></p>
 
-<a href="https://virtuanista.github.io/en/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="https://virtuanista.github.io/img/perfil/virtuanista-fija.webp"><img src="https://virtuanista.github.io/img/perfil/virtuanista.webp" alt="virtuanista" width="100%"></picture></a>
+<a href="https://virtuanista.github.io/en/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="img/virtuanista-fija.webp"><img src="img/virtuanista.webp" alt="virtuanista" width="100%"></picture></a>
 
 ### Development · Technology · Artificial Intelligence
 
 [![Explore the projects](https://img.shields.io/badge/🚀_EXPLORE_THE_PROJECTS-virtuanista.github.io-b84a06?style=for-the-badge)](https://virtuanista.github.io/en/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pepe_Alvar-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/pepe-alvar/)
+[![itch.io](https://img.shields.io/badge/itch.io-virtuanista-fa5c5c?style=for-the-badge)](https://virtuanista.itch.io)
 
 Explore my projects, technologies, developments, latest progress and next tasks.
 
@@ -16,104 +16,59 @@ Explore my projects, technologies, developments, latest progress and next tasks.
 
 Newest to oldest.
 
-<a href="https://virtuanista.github.io/vision/pro/?lang=en"><img src="https://virtuanista.github.io/img/perfil/vision-pro.webp" alt="Vision Pro" width="100%"></a>
+<p align="center"><a href="https://virtuanista.github.io/vision/"><img src="img/vision-pro-en.webp" width="820" alt="Vision: an interface made only of Gaussian points. Try it free"></a></p>
 
-**[💎 Vision Pro](https://virtuanista.github.io/vision/pro/?lang=en)**: an interface made only of Gaussian points. [Try it free](https://virtuanista.github.io/vision/)
+[![Vision](https://img.shields.io/badge/Free_demo-Vision-3fa9ff?style=for-the-badge)](https://virtuanista.github.io/vision/?lang=en) [![Vision Pro](https://img.shields.io/badge/Buy-Vision_Pro-8b3fd9?style=for-the-badge)](https://virtuanista.github.io/vision/pro/?lang=en#precios)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/parkour-template/"><img src="https://virtuanista.github.io/img/t/parkour.webp" alt="Parkour Template" width="100%"></a>
-<p><b>Parkour Template</b><br>Third-person parkour template to start your game.</p>
-<p><sub><a href="https://virtuanista.github.io/parkour-template/"><b>▶ Open</b></a> · <a href="https://github.com/virtuanista/parkour-template">Code</a> · <a href="https://virtuanista.github.io/en/#parkour">Details</a></sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/vision/"><img src="https://virtuanista.github.io/img/t/vision.webp" alt="Vision" width="100%"></a>
-<p><b>Vision</b><br>An interface made only of Gaussian points.</p>
-<p><sub><a href="https://virtuanista.github.io/vision/"><b>▶ Open</b></a> · <a href="https://github.com/virtuanista/vision">Code</a> · <a href="https://virtuanista.github.io/en/#vision">Details</a></sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/ceniza-protocolo-bastion/"><img src="https://virtuanista.github.io/img/t/ceniza.webp" alt="CENIZA: Protocolo Bastión" width="100%"></a>
-<p><b>CENIZA: Protocolo Bastión</b><br>First-person wave survival shooter.</p>
-<p><sub><a href="https://virtuanista.github.io/ceniza-protocolo-bastion/"><b>▶ Play</b></a> · <a href="https://github.com/virtuanista/ceniza-protocolo-bastion">Code</a> · <a href="https://virtuanista.github.io/en/#ceniza">Details</a></sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/retro-fantasy-shooter/"><img src="https://virtuanista.github.io/img/t/retro.webp" alt="Retro Fantasy Shooter" width="100%"></a>
-<p><b>Retro Fantasy Shooter</b><br>8-bit shoot'em up with 7 zones and 8 bosses.</p>
-<p><sub><a href="https://virtuanista.github.io/retro-fantasy-shooter/"><b>▶ Play</b></a> · <a href="https://github.com/virtuanista/retro-fantasy-shooter">Code</a> · <a href="https://virtuanista.github.io/en/#retro">Details</a></sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/myrmex/"><img src="https://virtuanista.github.io/img/t/myrmex.webp" alt="MYRMEX" width="100%"></a>
-<p><b>MYRMEX</b><br>Real-time strategy with ant colonies.</p>
-<p><sub><a href="https://virtuanista.github.io/myrmex/"><b>▶ Play</b></a> · <a href="https://github.com/virtuanista/myrmex">Code</a> · <a href="https://virtuanista.github.io/en/#myrmex">Details</a></sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/isleta/"><img src="https://virtuanista.github.io/img/t/isleta.webp" alt="Isleta" width="100%"></a>
-<p><b>Isleta</b><br>Build and decorate your own island.</p>
-<p><sub><a href="https://virtuanista.github.io/isleta/"><b>▶ Play</b></a> · <a href="https://github.com/virtuanista/isleta">Code</a> · <a href="https://virtuanista.github.io/en/#isleta">Details</a></sub></p>
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://virtuanista.github.io/parkour-template/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/parkour-oscuro-en.webp"><img src="img/parkour-claro-en.webp" width="400" alt="Parkour Template: Third-person parkour template to start your game. Open"></picture></a>
+<a href="https://virtuanista.github.io/ceniza-protocolo-bastion/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/ceniza-oscuro-en.webp"><img src="img/ceniza-claro-en.webp" width="400" alt="CENIZA: Protocolo Bastión: First-person wave survival shooter. Play"></picture></a>
+<a href="https://virtuanista.github.io/retro-fantasy-shooter/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/retro-oscuro-en.webp"><img src="img/retro-claro-en.webp" width="400" alt="Retro Fantasy Shooter: 8-bit shoot'em up with 7 zones and 8 bosses. Play"></picture></a>
+<a href="https://virtuanista.github.io/myrmex/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/myrmex-oscuro-en.webp"><img src="img/myrmex-claro-en.webp" width="400" alt="MYRMEX: Real-time strategy with ant colonies. Play"></picture></a>
+<a href="https://virtuanista.github.io/isleta/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/isleta-oscuro-en.webp"><img src="img/isleta-claro-en.webp" width="400" alt="Isleta: Build and decorate your own island. Play"></picture></a>
+</p>
 
 ## 🧊 Tools, AI and 3D
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/data-miner/?lang=en"><img src="https://virtuanista.github.io/img/t/dataminer.webp" alt="DataMiner" width="100%"></a>
-<p><b>DataMiner</b><br>Searches up to 45 sources at once, extracts the content and downloads the files.</p>
-<p><sub><a href="https://virtuanista.github.io/data-miner/?lang=en"><b>▶ Website</b></a> · <a href="https://github.com/virtuanista/data-miner/releases/latest">Download</a> · <a href="https://github.com/virtuanista/data-miner">Code</a> · <a href="https://virtuanista.github.io/en/#dataminer">Details</a></sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/knowledge-atlas/"><img src="https://virtuanista.github.io/img/t/atlas.webp" alt="Knowledge Atlas" width="100%"></a>
-<p><b>Knowledge Atlas</b><br>Six fractal graphs with 5,958 sources. Opens on OSINT.</p>
-<p><sub><a href="https://virtuanista.github.io/knowledge-atlas/"><b>▶ Open</b></a> · <a href="https://github.com/virtuanista/knowledge-atlas">Code</a> · <a href="https://virtuanista.github.io/en/#atlas">Details</a></sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vxtop.github.io/prisma/?lang=en"><img src="https://virtuanista.github.io/img/t/prisma.webp" alt="Prisma" width="100%"></a>
-<p><b>Prisma</b><br>Talk and work with Claude in a 3D space.</p>
-<p><sub><a href="https://vxtop.github.io/prisma/?lang=en"><b>▶ Website</b></a> · <a href="https://github.com/vxtop/prisma">Code</a> · <a href="https://virtuanista.github.io/en/#prisma">Details</a></sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/en/#gamehub"><img src="https://virtuanista.github.io/img/t/gamehub.webp" alt="GameHub" width="100%"></a>
-<p><b>GameHub</b><br>Local workspace to produce a complete video game.</p>
-<p><sub><a href="https://github.com/virtuanista/gamehub">Code</a> · <a href="https://virtuanista.github.io/en/#gamehub">Details</a></sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vxtop.github.io/"><img src="https://virtuanista.github.io/img/t/vxtop.webp" alt="vxtop" width="100%"></a>
-<p><b>vxtop</b><br>A read-only 3D observatory of your computer.</p>
-<p><sub><a href="https://vxtop.github.io/"><b>▶ Website</b></a> · <a href="https://github.com/vxtop/vxtop/releases/latest">Download</a> · <a href="https://github.com/vxtop/vxtop">Code</a> · <a href="https://virtuanista.github.io/en/#vxtop">Details</a></sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://virtuanista.github.io/en/#soniditos"><img src="https://virtuanista.github.io/img/t/soniditos.webp" alt="Soniditos Desktop" width="100%"></a>
-<p><b>Soniditos Desktop</b><br>Official Soniditos desktop client.</p>
-<p><sub><a href="https://github.com/soniditos/soniditos-desktop/releases/latest">Download</a> · <a href="https://github.com/soniditos/soniditos-desktop">Code</a> · <a href="https://virtuanista.github.io/en/#soniditos">Details</a></sub></p>
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://virtuanista.github.io/data-miner/?lang=en"><picture><source media="(prefers-color-scheme: dark)" srcset="img/dataminer-oscuro-en.webp"><img src="img/dataminer-claro-en.webp" width="400" alt="DataMiner: Searches up to 45 sources at once, extracts the content and downloads the files. Website"></picture></a>
+<a href="https://virtuanista.github.io/knowledge-atlas/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/atlas-oscuro-en.webp"><img src="img/atlas-claro-en.webp" width="400" alt="Knowledge Atlas: Six fractal graphs with 5,958 sources. Opens on OSINT. Open"></picture></a>
+<a href="https://vxtop.github.io/prisma/?lang=en"><picture><source media="(prefers-color-scheme: dark)" srcset="img/prisma-oscuro-en.webp"><img src="img/prisma-claro-en.webp" width="400" alt="Prisma: Talk and work with Claude in a 3D space. Website"></picture></a>
+<a href="https://github.com/virtuanista/gamehub"><picture><source media="(prefers-color-scheme: dark)" srcset="img/gamehub-oscuro-en.webp"><img src="img/gamehub-claro-en.webp" width="400" alt="GameHub: Local workspace to produce a complete video game. Code"></picture></a>
+<a href="https://vxtop.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/vxtop-oscuro-en.webp"><img src="img/vxtop-claro-en.webp" width="400" alt="vxtop: A read-only 3D observatory of your computer. Website"></picture></a>
+<a href="https://github.com/soniditos/soniditos-desktop/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="img/soniditos-oscuro-en.webp"><img src="img/soniditos-claro-en.webp" width="400" alt="Soniditos Desktop: Official Soniditos desktop client. Download"></picture></a>
+</p>
 
-## 🧰 More projects
+<details>
+<summary><b>🧰 All projects, with code</b></summary>
+<br>
 
 | Since | Project | What it does | |
-|---|---|---|---|
+|:--|:--|:--|:--|
+| 2026&#8209;11 | [**Parkour Template**](https://github.com/virtuanista/parkour-template) | Third-person parkour template to start your game. | [Details](https://virtuanista.github.io/en/#parkour) |
+| 2026&#8209;11 | [**DataMiner**](https://github.com/virtuanista/data-miner) | Searches up to 45 sources at once, extracts the content and downloads the files. | [Details](https://virtuanista.github.io/en/#dataminer) |
+| 2026&#8209;11 | [**Knowledge Atlas**](https://github.com/virtuanista/knowledge-atlas) | Six fractal graphs with 5,958 sources. Opens on OSINT. | [Details](https://virtuanista.github.io/en/#atlas) |
+| 2026&#8209;11 | [**Vision**](https://github.com/virtuanista/vision) | An interface made only of Gaussian points. | [Details](https://virtuanista.github.io/en/#vision) |
+| 2026&#8209;11 | [**Prisma**](https://github.com/vxtop/prisma) | Talk and work with Claude in a 3D space. | [Details](https://virtuanista.github.io/en/#prisma) |
+| 2026&#8209;11 | [**GameHub**](https://github.com/virtuanista/gamehub) | Local workspace to produce a complete video game. | [Details](https://virtuanista.github.io/en/#gamehub) |
+| 2026&#8209;11 | [**CENIZA: Protocolo Bastión**](https://github.com/virtuanista/ceniza-protocolo-bastion) | First-person wave survival shooter. | [Details](https://virtuanista.github.io/en/#ceniza) |
+| 2026&#8209;11 | [**vxtop**](https://github.com/vxtop/vxtop) | A read-only 3D observatory of your computer. | [Details](https://virtuanista.github.io/en/#vxtop) |
+| 2026&#8209;11 | [**Retro Fantasy Shooter**](https://github.com/virtuanista/retro-fantasy-shooter) | 8-bit shoot'em up with 7 zones and 8 bosses. | [Details](https://virtuanista.github.io/en/#retro) |
+| 2026&#8209;11 | [**MYRMEX**](https://github.com/virtuanista/myrmex) | Real-time strategy with ant colonies. | [Details](https://virtuanista.github.io/en/#myrmex) |
+| 2026&#8209;11 | [**Isleta**](https://github.com/virtuanista/isleta) | Build and decorate your own island. | [Details](https://virtuanista.github.io/en/#isleta) |
 | 2026&#8209;10 | [**agent-test**](https://github.com/virtuanista/agent-test) | Autonomous web research agent without paid services. | [Details](https://virtuanista.github.io/en/#agent) |
 | 2026&#8209;09 | [**Merge PDF**](https://github.com/virtuanista/unir-pdf) | Merges several PDFs from a local page. | [Details](https://virtuanista.github.io/en/#pdf) |
 | 2026&#8209;07 | [**NEON ARENA**](https://github.com/virtuanista/neon-arena) | Real-time multiplayer 2D PvP shooter. | [Details](https://virtuanista.github.io/en/#neon) |
-| 2026&#8209;05 | [**QR generator**](https://github.com/virtuanista/qr-code) | QR codes with colours, shapes and a logo. | [Open](https://virtuanista.github.io/qr-code/?lang=en) |
+| 2026&#8209;05 | [**QR generator**](https://github.com/virtuanista/qr-code) | QR codes with colours, shapes and a logo. | [Details](https://virtuanista.github.io/en/#qr) |
+| 2025&#8209;08 | [**Soniditos Desktop**](https://github.com/soniditos/soniditos-desktop) | Official Soniditos desktop client. | [Details](https://virtuanista.github.io/en/#soniditos) |
 | 2025&#8209;07 | [**Node Criteria**](https://github.com/virtuanista/node-criteria) | Explains a concept with a local model and saves it as Markdown. | [Details](https://virtuanista.github.io/en/#node-criteria) |
 | 2025&#8209;05 | [**Vector Explorer**](https://github.com/virtuanista/vector-explorer) | Extracts the embeddings of a language model and explores them in 3D. | [Details](https://virtuanista.github.io/en/#vector-explorer) |
-| 2025&#8209;04 | [**ChatGPT Walker**](https://github.com/virtuanista/chatgpt-walker) | Turns your ChatGPT export into Markdown files for Obsidian. | [Open](https://virtuanista.github.io/chatgpt-walker/?lang=en) |
+| 2025&#8209;04 | [**ChatGPT Walker**](https://github.com/virtuanista/chatgpt-walker) | Turns your ChatGPT export into Markdown files for Obsidian. | [Details](https://virtuanista.github.io/en/#chatgpt-walker) |
 | 2025&#8209;02 | [**Feelings Classifier**](https://github.com/virtuanista/feelings-classifier) | Classifies a text as positive or negative in a few lines. | [Details](https://virtuanista.github.io/en/#feelings) |
 | 2025&#8209;02 | [**LLMQL**](https://github.com/virtuanista/llmql) | Ask a database in Spanish or English and get the SQL query and its result. | [Details](https://virtuanista.github.io/en/#llmql) |
-| 2025&#8209;02 | [**Password generator**](https://github.com/virtuanista/password-generator) | Secure passwords in the terminal or the browser. | [Open](https://virtuanista.github.io/password-generator/?lang=en) |
+| 2025&#8209;02 | [**Password generator**](https://github.com/virtuanista/password-generator) | Secure passwords in the terminal or the browser. | [Details](https://virtuanista.github.io/en/#password) |
+
+</details>
 
 ## 📊 In numbers
 
