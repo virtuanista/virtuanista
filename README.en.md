@@ -61,7 +61,7 @@ Newest to oldest.
 <tr>
 <td width="50%" valign="top">
 <a href="https://virtuanista.github.io/data-miner/?lang=en"><img src="https://virtuanista.github.io/img/t/dataminer.webp" alt="DataMiner" width="100%"></a>
-<p><b>DataMiner</b><br>Searches 20 sources at once, extracts the content and downloads the files.</p>
+<p><b>DataMiner</b><br>Searches up to 45 sources at once, extracts the content and downloads the files.</p>
 <p><sub><a href="https://virtuanista.github.io/data-miner/?lang=en"><b>▶ Website</b></a> · <a href="https://github.com/virtuanista/data-miner/releases/latest">Download</a> · <a href="https://github.com/virtuanista/data-miner">Code</a> · <a href="https://virtuanista.github.io/en/#dataminer">Details</a></sub></p>
 </td>
 <td width="50%" valign="top">
