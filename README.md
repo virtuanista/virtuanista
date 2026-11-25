@@ -2,14 +2,14 @@
 
 # virtuanista 🎣
 
-[![Ver el panel de proyectos](https://img.shields.io/badge/Ver_el_panel_de_proyectos-virtuanista.github.io-b84a06?style=for-the-badge)](https://virtuanista.github.io/)
+### Desarrollo · Tecnología · Inteligencia Artificial
+
+[![Portfolio](https://img.shields.io/badge/🚀_Explorar_proyectos-virtuanista.github.io-b84a06?style=for-the-badge)](https://virtuanista.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pepe_Alvar-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/pepe-alvar/)
 
 </div>
 
-[🚀 Explorar proyectos y actividad](https://virtuanista.github.io/)
-
-Consulta mi panel de desarrollo para descubrir los proyectos, sus tecnologías, lenguajes, últimos avances y próximas tareas.
+Un espacio dedicado a mis proyectos y experimentos tecnológicos. Explora qué estoy construyendo, las tecnologías que utilizo, los últimos avances y los próximos objetivos de cada proyecto.
 ## 🎮 Destacados
 
 Del más nuevo al más antiguo.
