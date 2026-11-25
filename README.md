@@ -25,25 +25,11 @@ Shoot'em up de 8 bits con 7 zonas, 8 jefes y tienda de mejoras. Pixel art y chip
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://virtuanista.github.io/in-my-brain/"><img src="https://raw.githubusercontent.com/virtuanista/in-my-brain/main/docs/capturas/mosca.jpg" alt="In My Brain"></a>
-<h3><a href="https://github.com/virtuanista/in-my-brain">In My Brain</a></h3>
-Una cocina, un martes a las 7:14. Métete en la cabeza de una mosca, la taza o la bombilla y vive la misma mañana desde 34 percepciones distintas.
-<br><br><a href="https://virtuanista.github.io/in-my-brain/"><b>▶ Jugar</b></a>
-</td>
-<td width="33%" valign="top">
 <a href="https://virtuanista.github.io/isleta/"><img src="https://raw.githubusercontent.com/virtuanista/isleta/main/docs/capturas/titulo.jpg" alt="Isleta"></a>
 <h3><a href="https://github.com/virtuanista/isleta">Isleta</a></h3>
 Juego acogedor de construir y decorar tu propia isla. Gráficos isométricos y sonido generados por código, sin dependencias.
 <br><br><a href="https://virtuanista.github.io/isleta/"><b>▶ Jugar</b></a>
 </td>
-<td width="33%" valign="top">
-<a href="https://virtuanista.github.io/magical/"><img src="https://raw.githubusercontent.com/virtuanista/magical/main/docs/capturas/libro.jpg" alt="Grimorio"></a>
-<h3><a href="https://github.com/virtuanista/magical">Grimorio</a></h3>
-Sostienes un libro de hechizos en una cripta y lanzas magia trazando runas en el aire con el ratón. Primera persona con three.js.
-<br><br><a href="https://virtuanista.github.io/magical/"><b>▶ Jugar</b></a>
-</td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://virtuanista.github.io/parkour-template/"><img src="https://raw.githubusercontent.com/virtuanista/parkour-template/main/docs/capturas/menu.png" alt="Parkour Template"></a>
 <h3><a href="https://github.com/virtuanista/parkour-template">Parkour Template</a></h3>
@@ -70,6 +56,8 @@ Plantilla de parkour en tercera persona lista para que cualquiera la use: vault,
 | 2026-11 | [**DataMiner**](https://github.com/virtuanista/data-miner) | Busca en 20 fuentes a la vez, extrae el contenido y descarga los ficheros. Para Windows. |
 | 2026-11 | [**Generador QR**](https://github.com/virtuanista/qr-code) | Códigos QR personalizados con colores, formas y logo, en PNG o SVG. [▶ Abrir](https://virtuanista.github.io/qr-code/) |
 | 2026-11 | [**Unir PDF**](https://github.com/virtuanista/unir-pdf) | Une varios PDF en una página local, sin subirlos a ningún sitio. |
+| 2026-11 | [**GameHub**](https://github.com/virtuanista/gamehub) | Espacio de trabajo local para producir un videojuego completo con formatos estándar. |
+| 2026-11 | [**Vision**](https://github.com/virtuanista/vision) | 60.000 partículas en WebGL que reconstruyen una imagen. [▶ Abrir](https://virtuanista.github.io/vision/) |
 
 ## 🗺️ Atlas
 
