@@ -26,6 +26,7 @@ Del más nuevo al más antiguo.
 <a href="https://virtuanista.github.io/retro-fantasy-shooter/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/retro-oscuro.webp"><img src="img/retro-claro.webp" width="400" alt="Retro Fantasy Shooter: Shoot'em up de 8 bits con 7 zonas y 8 jefes. Jugar"></picture></a>
 <a href="https://virtuanista.github.io/myrmex/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/myrmex-oscuro.webp"><img src="img/myrmex-claro.webp" width="400" alt="MYRMEX: Estrategia en tiempo real con colonias de hormigas. Jugar"></picture></a>
 <a href="https://virtuanista.github.io/isleta/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/isleta-oscuro.webp"><img src="img/isleta-claro.webp" width="400" alt="Isleta: Construye y decora tu propia isla. Jugar"></picture></a>
+<a href="https://github.com/virtuanista/neon-arena"><picture><source media="(prefers-color-scheme: dark)" srcset="img/neon-oscuro.webp"><img src="img/neon-claro.webp" width="400" alt="NEON ARENA: Shooter PvP 2D multijugador en tiempo real. Código"></picture></a>
 </p>
 
 ## 🧊 Herramientas, IA y 3D
