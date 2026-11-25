@@ -90,6 +90,16 @@ Por orden de creación.
 <a href="https://virtuanista.github.io/parkour-template/"><b>▶ Abrir</b></a> · <a href="https://virtuanista.github.io/#parkour">Ficha técnica</a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vxtop.github.io/prisma/"><img src="https://virtuanista.github.io/img/prisma.webp" alt="Prisma"></a>
+<h3><a href="https://github.com/vxtop/prisma">Prisma</a></h3>
+<p><b>Habla y trabaja con Claude en un espacio 3D.</b></p>
+<p>Nace de vxtop, pero es otro proyecto: vxtop observa, Prisma conversa y, si lo permites, edita.</p>
+<p><code>Node.js</code> <code>three.js</code> <code>Claude Code</code> <code>MCP</code></p>
+<a href="https://vxtop.github.io/prisma/"><b>▶ Abrir</b></a> · <a href="https://virtuanista.github.io/#prisma">Ficha técnica</a>
+</td>
+</tr>
 </table>
 
 ## 📋 Todos los proyectos
@@ -117,6 +127,7 @@ Por orden de creación.
 | 2026-11 | [**Unir PDF**](https://github.com/virtuanista/unir-pdf) | Une varios PDF desde una página local. [Ficha](https://virtuanista.github.io/#pdf) | Desde el código | ![Último cambio](https://img.shields.io/github/last-commit/virtuanista/unir-pdf?label=%C3%BAltimo%20cambio&color=555) ![Licencia](https://img.shields.io/github/license/virtuanista/unir-pdf?label=licencia) |
 | 2026-11 | [**GameHub**](https://github.com/virtuanista/gamehub) | Espacio de trabajo local para producir un videojuego completo. [Ficha](https://virtuanista.github.io/#gamehub) | Desde el código | ![Último cambio](https://img.shields.io/github/last-commit/virtuanista/gamehub?label=%C3%BAltimo%20cambio&color=555) ![Licencia](https://img.shields.io/github/license/virtuanista/gamehub?label=licencia) |
 | 2026-11 | [**Vision**](https://github.com/virtuanista/vision) | 60.000 partículas que reconstruyen una imagen. [Ficha](https://virtuanista.github.io/#vision) | En la web | ![Último cambio](https://img.shields.io/github/last-commit/virtuanista/vision?label=%C3%BAltimo%20cambio&color=555) ![Licencia](https://img.shields.io/github/license/virtuanista/vision?label=licencia) |
+| 2026-11 | [**Prisma**](https://github.com/vxtop/prisma) | Habla y trabaja con Claude en un espacio 3D. [Ficha](https://virtuanista.github.io/#prisma) | Desde el código | ![Último cambio](https://img.shields.io/github/last-commit/vxtop/prisma?label=%C3%BAltimo%20cambio&color=555) ![Licencia](https://img.shields.io/github/license/vxtop/prisma?label=licencia) |
 
 ## 🔧 Pendiente
 
@@ -135,6 +146,7 @@ Por orden de creación.
 - [ ] **[Parkour Template](https://virtuanista.github.io/#parkour)**: Multijugador
 - [ ] **[Parkour Template](https://virtuanista.github.io/#parkour)**: Probar mando y táctil en dispositivos físicos
 - [ ] **[Generador QR](https://virtuanista.github.io/#qr)**: Necesita conexión para cargar la librería
+- [ ] **[Prisma](https://virtuanista.github.io/#prisma)**: macOS no está probado
 
 ## 🛠️ Con qué trabajo
 
