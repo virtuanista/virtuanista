@@ -31,16 +31,16 @@ Una cocina, un martes a las 7:14. Métete en la cabeza de una mosca, la taza o l
 <br><br><a href="https://virtuanista.github.io/in-my-brain/"><b>▶ Jugar</b></a>
 </td>
 <td width="33%" valign="top">
-<a href="https://virtuanista.github.io/magical/"><img src="https://raw.githubusercontent.com/virtuanista/magical/main/docs/capturas/libro.jpg" alt="Grimorio"></a>
-<h3><a href="https://github.com/virtuanista/magical">Grimorio</a></h3>
-Sostienes un libro de hechizos en una cripta y lanzas magia trazando runas en el aire con el ratón. Primera persona con three.js.
-<br><br><a href="https://virtuanista.github.io/magical/"><b>▶ Jugar</b></a>
-</td>
-<td width="33%" valign="top">
 <a href="https://virtuanista.github.io/isleta/"><img src="https://raw.githubusercontent.com/virtuanista/isleta/main/docs/capturas/titulo.jpg" alt="Isleta"></a>
 <h3><a href="https://github.com/virtuanista/isleta">Isleta</a></h3>
 Juego acogedor de construir y decorar tu propia isla. Gráficos isométricos y sonido generados por código, sin dependencias.
 <br><br><a href="https://virtuanista.github.io/isleta/"><b>▶ Jugar</b></a>
+</td>
+<td width="33%" valign="top">
+<a href="https://virtuanista.github.io/magical/"><img src="https://raw.githubusercontent.com/virtuanista/magical/main/docs/capturas/libro.jpg" alt="Grimorio"></a>
+<h3><a href="https://github.com/virtuanista/magical">Grimorio</a></h3>
+Sostienes un libro de hechizos en una cripta y lanzas magia trazando runas en el aire con el ratón. Primera persona con three.js.
+<br><br><a href="https://virtuanista.github.io/magical/"><b>▶ Jugar</b></a>
 </td>
 </tr>
 <tr>
@@ -53,13 +53,23 @@ Plantilla de parkour en tercera persona lista para que cualquiera la use: vault,
 </tr>
 </table>
 
-## 🧊 Proyectos
+## 🧊 Proyectos y herramientas
 
-| Proyecto | Qué es |
-|---|---|
-| [**DataMiner**](https://github.com/virtuanista/data-miner) | Una araña por criterio de búsqueda: busca en 20 fuentes, extrae el contenido y descarga los ficheros. App de escritorio para Windows. |
-| [**vxtop**](https://github.com/vxtop/vxtop) | Observatorio 3D de tu equipo, de solo lectura: carpetas y programas como cubos, actividad de archivos en vivo y agentes de IA. Con servidor MCP. |
-| [**soniditos desktop**](https://github.com/soniditos/soniditos-desktop) | Aplicación de escritorio multiplataforma de [soniditos](https://soniditos.com). |
+| Creado | Proyecto | Qué es |
+|---|---|---|
+| 2025-02 | [**llmql**](https://github.com/virtuanista/llmql) | Consultar bases de datos SQL en lenguaje natural. |
+| 2025-04 | [**chatgpt-walker**](https://github.com/virtuanista/chatgpt-walker) | Pasar las conversaciones de ChatGPT a Markdown para Obsidian. [▶ Abrir](https://virtuanista.github.io/chatgpt-walker/) |
+| 2025-05 | [**vector-explorer**](https://github.com/virtuanista/vector-explorer) | Extraer y visualizar los embeddings de modelos de lenguaje. |
+| 2025-07 | [**node-criteria**](https://github.com/virtuanista/node-criteria) | Explicar un concepto con un modelo local y guardarlo en Markdown. |
+| 2025-08 | [**soniditos desktop**](https://github.com/soniditos/soniditos-desktop) | Aplicación de escritorio multiplataforma de soniditos. |
+| 2026-11 | [**vxtop**](https://github.com/vxtop/vxtop) | Observatorio 3D de tu equipo, de solo lectura: carpetas y programas como cubos, y actividad en vivo. |
+| 2026-11 | [**password-generator**](https://github.com/virtuanista/password-generator) | Contraseñas seguras con generador criptográfico, en la terminal o en el navegador. [▶ Abrir](https://virtuanista.github.io/password-generator/) |
+| 2026-11 | [**feelings-classifier**](https://github.com/virtuanista/feelings-classifier) | Clasificador de sentimientos en pocas líneas con Transformers. |
+| 2026-11 | [**NEON ARENA**](https://github.com/virtuanista/neon-arena) | Shooter PvP 2D multijugador en tiempo real, con servidor autoritativo y bots. |
+| 2026-11 | [**agent-test**](https://github.com/virtuanista/agent-test) | Agente autónomo de investigación web con cualquier LLM compatible con OpenAI y DuckDuckGo. |
+| 2026-11 | [**DataMiner**](https://github.com/virtuanista/data-miner) | Busca en 20 fuentes a la vez, extrae el contenido y descarga los ficheros. Para Windows. |
+| 2026-11 | [**Generador QR**](https://github.com/virtuanista/qr-code) | Códigos QR personalizados con colores, formas y logo, en PNG o SVG. [▶ Abrir](https://virtuanista.github.io/qr-code/) |
+| 2026-11 | [**Unir PDF**](https://github.com/virtuanista/unir-pdf) | Une varios PDF en una página local, sin subirlos a ningún sitio. |
 
 ## 🗺️ Atlas
 
