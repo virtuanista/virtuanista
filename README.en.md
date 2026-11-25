@@ -16,6 +16,10 @@ Explore my projects, technologies, developments, latest progress and next tasks.
 
 Newest to oldest.
 
+<a href="https://virtuanista.github.io/vision/pro/?lang=en"><img src="https://virtuanista.github.io/img/perfil/vision-pro.webp" alt="Vision Pro" width="100%"></a>
+
+**[💎 Vision Pro](https://virtuanista.github.io/vision/pro/?lang=en)**: an interface made only of Gaussian points. [Try it free](https://virtuanista.github.io/vision/)
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -25,7 +29,7 @@ Newest to oldest.
 </td>
 <td width="50%" valign="top">
 <a href="https://virtuanista.github.io/vision/"><img src="https://virtuanista.github.io/img/t/vision.webp" alt="Vision" width="100%"></a>
-<p><b>Vision</b><br>60,000 particles that rebuild an image.</p>
+<p><b>Vision</b><br>An interface made only of Gaussian points.</p>
 <p><sub><a href="https://virtuanista.github.io/vision/"><b>▶ Open</b></a> · <a href="https://github.com/virtuanista/vision">Code</a> · <a href="https://virtuanista.github.io/en/#vision">Details</a></sub></p>
 </td>
 </tr>

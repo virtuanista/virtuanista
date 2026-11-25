@@ -16,6 +16,10 @@ Explora mis proyectos, tecnologías, desarrollos, últimos avances y próximas t
 
 Del más nuevo al más antiguo.
 
+<a href="https://virtuanista.github.io/vision/pro/"><img src="https://virtuanista.github.io/img/perfil/vision-pro.webp" alt="Vision Pro" width="100%"></a>
+
+**[💎 Vision Pro](https://virtuanista.github.io/vision/pro/)**: una interfaz hecha solo de puntos gaussianos. [Pruébala gratis](https://virtuanista.github.io/vision/)
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -25,7 +29,7 @@ Del más nuevo al más antiguo.
 </td>
 <td width="50%" valign="top">
 <a href="https://virtuanista.github.io/vision/"><img src="https://virtuanista.github.io/img/t/vision.webp" alt="Vision" width="100%"></a>
-<p><b>Vision</b><br>60.000 partículas que reconstruyen una imagen.</p>
+<p><b>Vision</b><br>Una interfaz hecha solo de puntos gaussianos.</p>
 <p><sub><a href="https://virtuanista.github.io/vision/"><b>▶ Abrir</b></a> · <a href="https://github.com/virtuanista/vision">Código</a> · <a href="https://virtuanista.github.io/#vision">Ficha</a></sub></p>
 </td>
 </tr>
