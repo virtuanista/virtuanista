@@ -2,9 +2,9 @@
 
 <p><a href="README.md">Español</a> · <b>English</b></p>
 
-<a href="https://virtuanista.github.io/vision/?lang=en"><picture><source media="(prefers-reduced-motion: reduce)" srcset="img/vision-fija.webp"><img src="img/vision.webp" alt="VISION" width="100%"></picture></a>
+<a href="https://mogub.app/"><picture><source media="(prefers-color-scheme: light)" srcset="img/mogub-claro.webp"><img src="img/mogub-oscuro.webp" alt="MOGUB: all your AI, on your computer" width="100%"></picture></a>
 
-<a href="https://virtuanista.github.io/vision/?lang=en"><img alt="Try it free" src="https://img.shields.io/badge/VISION-Try_it_free-3fa9ff?style=for-the-badge"></a> <a href="https://virtuanista.itch.io/vision/purchase"><img alt="Buy" src="https://img.shields.io/badge/VISION-Buy-8b3fd9?style=for-the-badge"></a>
+<a href="https://mogub.app/instalar"><img alt="Install free" src="https://img.shields.io/badge/MOGUB-Install_free-8b6cff?style=for-the-badge"></a> <a href="https://github.com/mogubstudio/mogub"><img alt="GitHub" src="https://img.shields.io/badge/MOGUB-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ### Development · Technology · Artificial Intelligence
 
