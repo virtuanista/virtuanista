@@ -4,7 +4,7 @@
 
 <a href="https://mogub.app/"><picture><source media="(prefers-color-scheme: light)" srcset="img/mogub-claro.webp"><img src="img/mogub-oscuro.webp" alt="MOGUB: all your AI, on your computer" width="100%"></picture></a>
 
-<a href="https://mogub.app/instalar"><img alt="Install free" src="https://img.shields.io/badge/MOGUB-Install_free-8b6cff?style=for-the-badge"></a> <a href="https://github.com/mogubstudio/mogub"><img alt="GitHub" src="https://img.shields.io/badge/MOGUB-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://mogub.app/instalar"><img alt="Install free" src="https://img.shields.io/badge/MOGUB-Install_free-8b6cff?style=for-the-badge"></a> <a href="https://www.npmjs.com/package/@mogub/mcp"><img alt="npm" src="https://img.shields.io/badge/MOGUB-npm-cb3837?style=for-the-badge&logo=npm&logoColor=white"></a> <a href="https://github.com/mogubstudio/mogub#conectar-por-mcp"><img alt="MCP" src="https://img.shields.io/badge/MOGUB-MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"></a> <a href="https://github.com/mogubstudio/mogub"><img alt="GitHub" src="https://img.shields.io/badge/MOGUB-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ### Development · Technology · Artificial Intelligence
 
